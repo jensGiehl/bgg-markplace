@@ -1,0 +1,331 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+    <item type="boardgame" id="229265">
+        <thumbnail>
+            https://cf.geekdo-images.com/N_oaV30_ImihsgPhYAUyiQ__thumb/img/5Ux0lbcU6kZPSGW3SpKFQhdw9ww=/fit-in/200x150/filters:strip_icc()/pic4110410.jpg
+        </thumbnail>
+        <image>
+            https://cf.geekdo-images.com/N_oaV30_ImihsgPhYAUyiQ__original/img/BfzNBdQu-iHq3nA9Dfnwhz06EyQ=/0x0/filters:format(jpeg)/pic4110410.jpg
+        </image>
+        <name type="primary" sortindex="1" value="Wendake"/>
+        <name type="alternate" sortindex="1" value="温达克"/>
+        <description>&quot;Wendake&quot; is the name that the Wyandot people use for their traditional territory. This
+            population, also known as the Huron Nation, lived in the Great Lakes region, together with the tribes who
+            formed the Iroquois Confederacy, and many others. In this game, you will explore the traditions and everyday
+            life of these tribes during the 1756&ndash;1763 period, when the Seven Years&rsquo; War between the French
+            and the English took place in these territories.&#10;&#10;But this white man&rsquo;s war is only a marginal
+            aspect of the game; the focus is on life in the native villages, fields, and forests. In this game, you won&rsquo;t
+            find the traditional tipis, which were used by southwestern tribes who moved their camps to follow the bison
+            herds. The natives of the Great Lakes were more sedentary, living in longhouses. The women farmed beans,
+            corn, and pumpkins, while the men hunted beavers in the forests, mainly to sell their pelts as leather.&#10;&#10;In
+            Wendake, you step into the shoes of the chief of a Native American tribe. You will have to manage the most
+            important aspects of your tribe&rsquo;s daily existence, thereby earning points on the Economic, Military,
+            Ritual, and Mask tracks. The core of the game is the action selection mechanism: you will have the
+            opportunity to choose better and better actions over 7 years (i.e., rounds), and the winner will be the
+            chief who finds the best combinations of actions and uses them to lead their tribe to prosperity!&#10;&#10;
+        </description>
+        <yearpublished value="2017"/>
+        <minplayers value="1"/>
+        <maxplayers value="4"/>
+        <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="56">
+            <results numplayers="1">
+                <result value="Best" numvotes="0"/>
+                <result value="Recommended" numvotes="22"/>
+                <result value="Not Recommended" numvotes="10"/>
+            </results>
+            <results numplayers="2">
+                <result value="Best" numvotes="7"/>
+                <result value="Recommended" numvotes="23"/>
+                <result value="Not Recommended" numvotes="13"/>
+            </results>
+            <results numplayers="3">
+                <result value="Best" numvotes="16"/>
+                <result value="Recommended" numvotes="26"/>
+                <result value="Not Recommended" numvotes="1"/>
+            </results>
+            <results numplayers="4">
+                <result value="Best" numvotes="25"/>
+                <result value="Recommended" numvotes="11"/>
+                <result value="Not Recommended" numvotes="5"/>
+            </results>
+            <results numplayers="4+">
+                <result value="Best" numvotes="0"/>
+                <result value="Recommended" numvotes="0"/>
+                <result value="Not Recommended" numvotes="18"/>
+            </results>
+        </poll>
+        <playingtime value="120"/>
+        <minplaytime value="60"/>
+        <maxplaytime value="120"/>
+        <minage value="14"/>
+        <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+            <results>
+                <result value="2" numvotes="0"/>
+                <result value="3" numvotes="0"/>
+                <result value="4" numvotes="0"/>
+                <result value="5" numvotes="0"/>
+                <result value="6" numvotes="0"/>
+                <result value="8" numvotes="1"/>
+                <result value="10" numvotes="2"/>
+                <result value="12" numvotes="7"/>
+                <result value="14" numvotes="3"/>
+                <result value="16" numvotes="0"/>
+                <result value="18" numvotes="0"/>
+                <result value="21 and up" numvotes="0"/>
+            </results>
+        </poll>
+        <poll name="language_dependence" title="Language Dependence" totalvotes="11">
+            <results>
+                <result level="1" value="No necessary in-game text" numvotes="11"/>
+                <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+                <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+                <result level="4" value="Extensive use of text - massive conversion needed to be playable"
+                        numvotes="0"/>
+                <result level="5" value="Unplayable in another language" numvotes="0"/>
+            </results>
+        </poll>
+        <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+        <link type="boardgamecategory" id="1021" value="Economic"/>
+        <link type="boardgamecategory" id="1013" value="Farming"/>
+        <link type="boardgamecategory" id="1046" value="Fighting"/>
+        <link type="boardgamemechanic" id="2080" value="Area Majority / Influence"/>
+        <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+        <link type="boardgamemechanic" id="2987" value="Hidden Victory Points"/>
+        <link type="boardgamemechanic" id="2889" value="Highest-Lowest Scoring"/>
+        <link type="boardgamemechanic" id="2004" value="Set Collection"/>
+        <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+        <link type="boardgamemechanic" id="2082" value="Worker Placement"/>
+        <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+        <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules"/>
+        <link type="boardgamefamily" id="64973" value="Region: Great Lakes"/>
+        <link type="boardgamefamily" id="43639" value="Theme: Native Americans / First Peoples"/>
+        <link type="boardgameexpansion" id="257159" value="Wendake: New Allies"/>
+        <link type="boardgameexpansion" id="237316" value="Wendake: Promo Tiles"/>
+        <link type="boardgameexpansion" id="260708" value="Wendake: Promo Tiles 2018"/>
+        <link type="boardgamedesigner" id="101481" value="Danilo Sabia"/>
+        <link type="boardgameartist" id="60472" value="Alan D'Amico"/>
+        <link type="boardgamepublisher" id="14362" value="Placentia Games"/>
+        <link type="boardgamepublisher" id="4222" value="Post Scriptum"/>
+        <link type="boardgamepublisher" id="39637" value="Enjoy Game"/>
+        <link type="boardgamepublisher" id="45510" value="Rawstone"/>
+        <link type="boardgamepublisher" id="28072" value="Renegade Game Studios"/>
+        <marketplacelistings>
+            <listing>
+                <listdate value="Fri, 02 Mar 2018 15:03:17 +0000"/>
+                <price currency="EUR" value="54.99"/>
+                <condition value="new"/>
+                <notes value="Full list https://www.boardgamegeek.com/geekmarket/user/karadoc&#10;Shipping Information&#10;&#10;Belgium 6 &#226;&#130;&#172;&#10;Netherlands/Luxembourg 10 &#226;&#130;&#172;&#10;Other European Countries 15 &#226;&#130;&#172;&#10;Other continents please reuqest your shipping quote&#10;&#10;We can send a payment link so you can easily pay with all credit cards&#10;Bank Transfer to BNP Paribas 001-4570423-53&#10;Paypal address: paypal@outpost.be pay as friends and family, otherwise add 4% fee'sBank information for payments form outside Belgium&#10;IBAN BE53001457042353 BIC GEBABEBB&#10;&#10;&#10;Full list https://www.boardgamegeek.com/geekmarket/user/karadoc"/>
+                <link href="https://boardgamegeek.com/market/product/1436194" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 14 Mar 2018 16:40:23 +0000"/>
+                <price currency="GBP" value="47.50"/>
+                <condition value="new"/>
+                <notes value="Shrinkwrapped."/>
+                <link href="https://boardgamegeek.com/market/product/1446173" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 02 Oct 2018 12:54:58 +0000"/>
+                <price currency="EUR" value="49.99"/>
+                <condition value="new"/>
+                <notes value="Full list https://www.boardgamegeek.com/geekmarket/user/karadoc&#10;Shipping Information&#10;&#10;Belgium 6 &#226;&#130;&#172;&#10;Netherlands/Luxembourg 10 &#226;&#130;&#172;&#10;Other European Countries 15 &#226;&#130;&#172;&#10;Other continents please reuqest your shipping quote&#10;&#10;We can send a payment link so you can easily pay with all credit cards&#10;Bank Transfer to BNP Paribas 001-4570423-53&#10;Paypal address: paypal@outpost.be pay as friends and family, otherwise add 4% fee'sBank information for payments form outside Belgium&#10;IBAN BE53001457042353 BIC GEBABEBB&#10;&#10;&#10;Full list https://www.boardgamegeek.com/geekmarket/user/karadoc"/>
+                <link href="https://boardgamegeek.com/market/product/1605811" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 22 Oct 2018 16:21:45 +0000"/>
+                <price currency="EUR" value="45.00"/>
+                <condition value="likenew"/>
+                <notes value="Nur ausgepackt; ungespielt.&#10;&#10;Bezahlung per Vorkasse (&#195;&#156;berweisung) oder Paypal.&#10;Versand nach Deutschland per DHL f&#195;&#188;r EUR 5,99.&#10;Versand Rest der Welt auf Anfrage.&#10;Privatverkauf: Keinerlei Gew&#195;&#164;hrleistung, Garantie, Widerrufs- bzw. R&#195;&#188;cktrittsrecht."/>
+                <link href="https://boardgamegeek.com/market/product/1640917" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 25 Nov 2018 11:18:21 +0000"/>
+                <price currency="EUR" value="57.00"/>
+                <condition value="new"/>
+                <notes value="Game weight: 2.080 kg"/>
+                <link href="https://boardgamegeek.com/market/product/1678634" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 10 Dec 2018 20:50:25 +0000"/>
+                <price currency="USD" value="43.00"/>
+                <condition value="new"/>
+                <notes value="Brand new in shrink (English edition 2018) $9.95 flat shipping for the contiguous United States"/>
+                <link href="https://boardgamegeek.com/market/product/1697786" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 11 Nov 2019 17:15:21 +0000"/>
+                <price currency="USD" value="30.00"/>
+                <condition value="likenew"/>
+                <notes value="Shrink has been removed but contents are unpunched and unplayed. Box is in perfect shape. This is a fantastic game, but I ended up with a second copy!"/>
+                <link href="https://boardgamegeek.com/market/product/1994917" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 16 Aug 2020 14:24:21 +0000"/>
+                <price currency="EUR" value="48.00"/>
+                <condition value="new"/>
+                <notes value="New in shrink wrap.&#10;&#10;[size=14][b]All prices are inclusive of UK and EU VAT, but do not include shipping costs.[/b][/size] &#10;&#10;[size=12][b]Shipping Cost:[/b][/size] &#10;Shipping (with tracking) for this item will be:&#10;7 Euros within Germany.&#10;15 Euros to Luxemburg and Malta.&#10;16 Euros to Austria, Bulgaria, Cyprus, Estonia, France, Liechtenstein, Monaco, Slovakia, and Switzerland.&#10;17 Euros to Albania, Belarus, Belgium, Bosnia and Herzegovina, Czech Republic, Faroe Islands, Greenland, Iceland, Latvia, Lithuania, Macedonia, Moldavia, Montenegro, Netherlands, Norway, Romania, Serbia, Spain, and Ukraine.&#10;18 Euros to Ireland, Italy, Poland, Portugal, and Slovenia.&#10;19 Euros to Croatia, Denmark, Finland, Greece, and Sweden.&#10;20 Euros to Hungary.&#10;25 Euros to the United Kingdom.&#10;28 Euros to Israel, Russia, and Turkey.&#10;32 Euros to Canada and the USA.&#10;34 Euros to Australia, Brazil, China, Indonesia, Japan, Malaysia, New Zealand, Singapore, South Korea, Taiwan, and Thailand.&#10;42 Euros to Mexico and Vietnam.&#10;43 Euros to everywhere else.&#10;&#10;NOTE: The shipping rates for deliveries outside of the EU and UK have been discounted to make up for the fact that no VAT is paid for sales outside of the EU and UK. However, there may be import taxes for deliveries outside of the EU and UK, and the buyer is responsible paying these. &#10;&#10;&#10;[b]Combined Shipping:[/b]&#10;The shipping cost for multiple items will be:&#10;8 Euros within Germany.&#10;15 Euros to Luxemburg and Malta.&#10;16 Euros to Cyprus and Romania.&#10;17 Euros to Austria, Bulgaria, Estonia, France, Monaco, and Slovakia.&#10;18 Euros to Belgium, Czech Republic, Latvia, Liechtenstein, Lithuania, Netherlands, Spain, and Switzerland. &#10;19 Euros to Italy and Slovenia.&#10;20 Euros to Albania, Belarus, Bosnia and Herzegovina, Faroe Islands, Greenland, Iceland, Ireland, Macedonia, Moldavia, Montenegro, Norway, Poland, Portugal, Serbia, and Ukraine.&#10;21 Euros to Finland and Greece.&#10;22 Euros to Croatia, Denmark, and Sweden.&#10;24 Euros to Hungary.&#10;26 Euros to the United Kingdom.&#10;32 Euros to Israel, Russia, and Turkey.&#10;38 Euros to Canada and the USA.&#10;40 Euros to Australia, Brazil, China, Indonesia, Japan, Malaysia, New Zealand, Singapore, South Korea, Taiwan, and Thailand.&#10;50 Euros to Mexico and Vietnam.&#10;52 Euros to everywhere else.&#10;&#10;[b]Mutiple Small Items:[/b] It may be possible to send multiple small items for cheaper than the above rate. If you are wondering about this possibility, please send me a message. &#10;&#10;&#10;[size=14][b]Payment Options:[/b][/size] &#10;&#10;[size=12][b]Paypal:[/b][/size] No fee is charged to you, if you pay using Paypal. But Paypal does not change currency at the fair market rate. So you will lose 3% or more of your money, if you are converting to Euros.&#10;&#10;[size=12][b]IBAN Bank Transfer:[/b][/size] Payment by bank transfer is possible using an IBAN compatible account. There is a 3% discount if you pay using IBAN Bank Transfer (i.e., your total payment due is 3% less). &#10;&#10;[size=12][b]Wise:[/b][/size] There is a 3% discount if you pay using Wise (i.e., your total payment due is 3% less). The company does currency conversion at the fair market rate, and charges the sender a fee of about 0.5% of the amount of money sent.&#10;&#10;[size=12][b]Revolut:[/b][/size] There is a 3% discount if you pay using Revolut (i.e., your total payment due is 3% less). The company does currency conversion at the fair market rate, and there are no fees to send money. &#10;&#10;[size=12][b]Interac e-transfer:[/b][/size] If you have a Canadian bank account (like me), then you can pay by Interac e-transfer. In this case, you pay in Canadian dollars, at the fair market exchange rate. There is also a 3% discount, if you pay using Interac e-transfer (i.e., your total payment due is 3% less).&#10;&#10;[size=12][b]Payment in Dollars:[/b][/size] It is possible to make Paypal payments in US or Canadian dollars, at the fair market exchange rate. You will automatically receive this option, if your address is in the USA or Canada.&#10;&#10;&#10;[size=14][b]I take responsibility for the safe delivery of your order:[/b][/size] I am a registered commercial seller. Thus, insofar as you are a private consumer, it is required by German law that I take responsibility for any loss or damage of goods that occurs during shipment.&#10;&#10;&#10;[size=14][b]Looking for something that is not listed here?[/b][/size] &#10;I also sell smaller items on BGG here:&#10;https://boardgamegeek.com/geekmarket/user/europa_major?pageid=1&#10;&#10;If you want to combine items from my other alias, let me know. The flat rate shipping offered there does not apply to the items listed here. The items sold there will typically (but not always) ship for free with the items sold here.&#10;&#10;I can also make [size=12][b]special orders[/b][/size] for items that I don't have in stock. Send me a message concerning an item, and I will check for availability and tell you what the price would be."/>
+                <link href="https://boardgamegeek.com/market/product/2154008" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 07 Aug 2020 09:41:52 +0000"/>
+                <price currency="EUR" value="49.00"/>
+                <condition value="likenew"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/market/product/2264374" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 25 Jan 2021 07:58:13 +0000"/>
+                <price currency="EUR" value="40.00"/>
+                <condition value="new"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/market/product/2443833" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 12 Mar 2021 15:34:50 +0000"/>
+                <price currency="GBP" value="34.95"/>
+                <condition value="likenew"/>
+                <notes value="The game is in fantastic condition. Played with a few times, but near mint."/>
+                <link href="https://boardgamegeek.com/market/product/2492976" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 18 Apr 2021 10:10:28 +0000"/>
+                <price currency="EUR" value="39.00"/>
+                <condition value="verygood"/>
+                <notes value="played twice"/>
+                <link href="https://boardgamegeek.com/market/product/2532159" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 12 Feb 2022 17:34:53 +0000"/>
+                <price currency="EUR" value="39.00"/>
+                <condition value="new"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/market/product/2786106" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 06 Apr 2022 18:01:59 +0000"/>
+                <price currency="USD" value="26.99"/>
+                <condition value="new"/>
+                <notes value="CLS Games - Atlanta's Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new & still in factory shrink-wrap.&#10;&#10;WENDAKE: $26.99&#10;Renegade Game Studios [RGS 820]&#10;&#10;SHIPPING&#10;Continental U.S. - $15.95&#10;International (Including AK & HI) - TBD"/>
+                <link href="https://boardgamegeek.com/market/product/2835365" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 11 May 2022 14:31:52 +0000"/>
+                <price currency="EUR" value="44.99"/>
+                <condition value="verygood"/>
+                <notes value="Payment is possible with PayPal, Revolut, or a bank transfer.&#10;&#10;Please ask for shipping :)"/>
+                <link href="https://boardgamegeek.com/market/product/2868097" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 09 Jun 2022 10:55:33 +0000"/>
+                <price currency="EUR" value="30.00"/>
+                <condition value="likenew"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/market/product/2886716" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 10 Jul 2022 20:12:22 +0000"/>
+                <price currency="EUR" value="40.00"/>
+                <condition value="likenew"/>
+                <notes value="Kickstarter edition: https://www.kickstarter.com/projects/postscriptum-games/wendake?lang=es&#10;&#10;Includes promo tiles&#10;&#10;Multilanguage: English, German, Italian and French"/>
+                <link href="https://boardgamegeek.com/market/product/2912740" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 04 Sep 2022 22:33:41 +0000"/>
+                <price currency="USD" value="35.00"/>
+                <condition value="new"/>
+                <notes value="The shrink is still on.&#10;&#10;This is my 2nd copy of the game, had to buy it as the only way I could find to get the expansion.&#10;&#10;Buyer pays shipping ($15.00), however that works ... not sure beause this is my first listing."/>
+                <link href="https://boardgamegeek.com/market/product/2953382" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 05 Oct 2022 22:04:04 +0000"/>
+                <price currency="EUR" value="39.00"/>
+                <condition value="verygood"/>
+                <notes value="Multilingual version."/>
+                <link href="https://boardgamegeek.com/market/product/2980864" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 22 Oct 2022 11:32:48 +0000"/>
+                <price currency="EUR" value="29.00"/>
+                <condition value="likenew"/>
+                <notes value="Like new, played twice&#10;&#10;Please contact by message for shipping costs and payment method before order, thanks"/>
+                <link href="https://boardgamegeek.com/market/product/2992644" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 05 Nov 2022 12:46:15 +0000"/>
+                <price currency="EUR" value="35.00"/>
+                <condition value="likenew"/>
+                <notes value="opened but unplayed."/>
+                <link href="https://boardgamegeek.com/market/product/3002551" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 18 Nov 2022 15:25:51 +0000"/>
+                <price currency="EUR" value="29.00"/>
+                <condition value="verygood"/>
+                <notes value="Komplett in sehr guten Zustand&#10;&#10;Die Erweiterung habe ich auch zu verkaufen"/>
+                <link href="https://boardgamegeek.com/market/product/3018664" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 10 Dec 2022 18:32:27 +0000"/>
+                <price currency="USD" value="35.00"/>
+                <condition value="new"/>
+                <notes value="NIS. shipping is $17 to CONUS"/>
+                <link href="https://boardgamegeek.com/market/product/3035685" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 12 Jan 2023 20:27:50 +0000"/>
+                <price currency="USD" value="40.00"/>
+                <condition value="new"/>
+                <notes value="New, in shrink. Never Opened."/>
+                <link href="https://boardgamegeek.com/market/product/3064866" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 22 Feb 2023 04:33:16 +0000"/>
+                <price currency="USD" value="37.45"/>
+                <condition value="new"/>
+                <notes value="Payment: Amazon gift card or cash.&#10;Ships from southwest Ohio; Local delivery possible. I can combine shipping on multiple purchases.&#10;I am also open to selling any of the games in my 'for trade' list as well as most of the games that I haven't rated yet. If interested, go ahead and make an offer.&#10;I will likely offer a discount for multiple game purchases. Thanks!"/>
+                <link href="https://boardgamegeek.com/market/product/3096089" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 28 Feb 2023 11:16:59 +0000"/>
+                <price currency="EUR" value="79.00"/>
+                <condition value="likenew"/>
+                <notes value="with expansion"/>
+                <link href="https://boardgamegeek.com/market/product/3107548" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 16 Mar 2023 15:16:12 +0000"/>
+                <price currency="EUR" value="35.00"/>
+                <condition value="verygood"/>
+                <notes value="1 marker is replaced"/>
+                <link href="https://boardgamegeek.com/market/product/3120533" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 22 Mar 2023 06:34:47 +0000"/>
+                <price currency="GBP" value="20.00"/>
+                <condition value="likenew"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/market/product/3124675" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 21 Apr 2023 15:14:28 +0000"/>
+                <price currency="EUR" value="55.00"/>
+                <condition value="new"/>
+                <notes value="Title: Wendake&#10;Publisher: Placentia Games&#10;Language(s): English German"/>
+                <link href="https://boardgamegeek.com/market/product/3149615" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 24 May 2023 15:45:22 +0000"/>
+                <price currency="EUR" value="35.00"/>
+                <condition value="likenew"/>
+                <notes value="DJ22-443"/>
+                <link href="https://boardgamegeek.com/market/product/3175527" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 25 May 2023 20:18:10 +0000"/>
+                <price currency="USD" value="39.00"/>
+                <condition value="new"/>
+                <notes value="New in shrink"/>
+                <link href="https://boardgamegeek.com/market/product/3176386" title="marketlisting"/>
+            </listing>
+        </marketplacelistings>
+    </item>
+</items>
